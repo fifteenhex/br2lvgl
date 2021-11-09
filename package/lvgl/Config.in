@@ -1,0 +1,3 @@
+config BR2_PACKAGE_LVGL
+	bool "lvgl"
+	depends on BR2_TOOLCHAIN_BUILDROOT_CXX

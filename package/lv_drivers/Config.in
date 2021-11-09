@@ -1,0 +1,3 @@
+config BR2_PACKAGE_LV_DRIVERS
+	bool "lv_drivers"
+	depends on BR2_TOOLCHAIN_BUILDROOT_CXX

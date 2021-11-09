@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_LVGL_PATH/package/lv_drivers/Config.in"
+source "$BR2_EXTERNAL_LVGL_PATH/package/lvgl/Config.in"
