@@ -1,3 +1,0 @@
-config BR2_PACKAGE_LV_DEMOS
-	bool "lv_demos"
-	depends on BR2_TOOLCHAIN_BUILDROOT_CXX

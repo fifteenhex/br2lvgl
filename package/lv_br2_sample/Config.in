@@ -1,0 +1,3 @@
+config BR2_PACKAGE_LV_BR2_SAMPLE
+	bool "lv_sample"
+	depends on BR2_TOOLCHAIN_BUILDROOT_CXX
