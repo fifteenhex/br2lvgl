@@ -1,3 +1,4 @@
 source "$BR2_EXTERNAL_LVGL_PATH/package/lvgl/Config.in"
 source "$BR2_EXTERNAL_LVGL_PATH/package/lv_br2_sample/Config.in"
 source "$BR2_EXTERNAL_LVGL_PATH/package/lv_drivers/Config.in"
+source "$BR2_EXTERNAL_LVGL_PATH/package/lv_sim_eclipse_sdl/Config.in"

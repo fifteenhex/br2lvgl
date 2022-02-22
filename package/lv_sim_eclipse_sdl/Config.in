@@ -1,0 +1,3 @@
+config BR2_PACKAGE_LV_SIM_ECLIPSE_SDL
+	bool "lv_sim_ecliplse_sdl"
+	depends on BR2_TOOLCHAIN_BUILDROOT_CXX
